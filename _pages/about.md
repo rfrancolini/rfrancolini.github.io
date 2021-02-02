@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
 ![buoys.](/images/bouyscropped.jpg)
 
 I am currently a first year Marine Biology PhD student at the [University of Maine](https://https://umaine.edu/), based out of [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org//). I am part of the Maine EPSCoR project [Maine-eDNA](https://umaine.edu/edna/), co-advised by [Doug Rasher](https://www.bigelow.org/about/people/drasher.html) and [Damian Brady](https://umaine.edu/marine/people/damian-c-brady/).

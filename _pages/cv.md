@@ -10,10 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* B.S. in Biological Sciences, Carnegie Mellon University, 2015
+* M.S. in Computational Biology, Carnegie Mellon University, 2016
 
 Work experience
 ======
@@ -38,7 +37,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

@@ -9,22 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Full CV Here](http://rfrancolini.github.io/files/Francolini%202020%20Oct%20CV.pdf)
+
 Education
 ------
-* B.S. in Biological Sciences, Carnegie Mellon University, 2015
 * M.S. in Computational Biology, Carnegie Mellon University, 2016
+* B.S. in Biological Sciences, Carnegie Mellon University, 2015
 
-Work experience
+Research experience
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2020 - Current: Graduate Research Assistant
+  * Bigelow Laboratory for Ocean Sciences, University of Maine
+  * Advisors: Dr. Doug Rasher, Dr. Damian Brady
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2018 - June 2020: Research Assistant III
+  * Woods Hole Oceanographic Institution
+  * Supervisor: Dr. Annette Govindarajan
+  
+* February 2017 - November 2019: Research Assistant III
+  * Woods Hole Oceanographic Institution
+  * Supervisor: Dr. Jed Goldstone
+
+* January 2015 - May 2016: Graduate Researcher
+  * Carnegie Mellon University
+  * Advisor: Dr. Veronica Hinman
+  
+* Summer 2014: Undergraduate Research Assistant
+  * Hawaii Institute of Marine Biology
+  * Supervisor: Dr. Ruth Gates
+
+* Summer 2013: Andes to Amazon Study Abroad
+  * Ceiba Foundation for Tropical Conservation
+  * Supervisor: Dr. Joe Meisel
+
+* 2011 - 2012: Phages Genomics Research
+  * Carnegie Mellon University
+  * Supervisors: Dr. Maggie Braun, Dr. John Jarvik
+  
+* 2007 - 2012: Summer Research Intern
+  * Wellfleet Bay Wildlife Sanctuary, Massachusetts Audubon Society
+  * Supervisors: Mark Faherty
   
 Skills
 ------

@@ -19,7 +19,7 @@ Education
 Research experience
 ------
 * July 2020 - Current: Graduate Research Assistant  
-  * Bigelow Laboratory for Ocean Sciences, University of Maine  
+  * TestTextBigelow Laboratory for Ocean Sciences, University of Maine  
   * Advisors: Dr. Doug Rasher, Dr. Damian Brady
 
 * June 2018 - June 2020: Research Assistant III

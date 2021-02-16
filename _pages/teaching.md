@@ -7,7 +7,7 @@ author_profile: true
 
 I have always enjoyed teaching others about the natural history of the earth, etc etc blah blahblah.
 
-##East Falmouth Elementary School Field Trip
+## East Falmouth Elementary School Field Trip
 
 2017 Field Trip
 
@@ -17,6 +17,6 @@ I have always enjoyed teaching others about the natural history of the earth, et
 
 ![EFES2018.](/images/EFES2018all-labeled.jpg)
 
-##Woods Hole Science Stroll
+## Woods Hole Science Stroll
 
 ![Stroll.](/images/ScienceStroll1-labeled.jpg)

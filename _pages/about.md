@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ovens Mouth.](/images/SeptWoods3Cropped2.jpg)
+![Ovens Mouth.](/images/SeptWoods3Cropped2Outline.jpg)
 
 I am currently a first year Marine Biology PhD student at the [University of Maine](https://https://umaine.edu/), based out of [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org//). I am part of the Maine EPSCoR project [Maine-eDNA](https://umaine.edu/edna/), co-advised by [Doug Rasher](https://www.bigelow.org/about/people/drasher.html) and [Damian Brady](https://umaine.edu/marine/people/damian-c-brady/).
 
@@ -20,6 +20,8 @@ Prior to my PhD, I worked as a research assistant at [Woods Hole Oceanographic I
 
 Even before that, I earned my M.S. in Computational Biology as well as my B.S. in Biological Sciences at [Carnegie Mellon University](https://www.cmu.edu/). I was a member of Veronica Hinman's [Evolution, Development, and Regeneration Lab](https://labs.bio.cmu.edu/hinman/), and successfully defended my thesis in 2016. 
 
-![bouys.](/images/bouyscropped2.jpg)
+![Horseshoe.](/images/Horseshoe1-cropped.jpg)
 
 Before any formal higher education, I fell in love with the ocean, the salt marsh, and all the organisms in it while volunteering at Massachusetts Audubon Society's [Wellfleet Bay Wildlife Sanctuary](https://www.massaudubon.org/get-outdoors/wildlife-sanctuaries/wellfleet-bay). It was this experience - conducting juvenile horseshoe crab studies, oyster reef restoration studies, and protecting diamondback terrapin nests - that made me realize I wanted to study our natural environmental for the rest of my life.
+
+![bouys.](/images/bouyscropped2.jpg)

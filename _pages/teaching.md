@@ -11,7 +11,7 @@ I have always enjoyed teaching others about the natural history of the earth. Be
 
 <p float="center">
   <img src="/images/EFES2017a-labeled.jpg" width = "270" />
-  <img src="/images/EFES2017b-labeled.jpg" width = "250" /> 
+  <img src="/images/EFES2017b-labeled.jpg" width = "260" /> 
 </p>
 
 
@@ -27,8 +27,8 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
 
 
 <p float="center">
-  <img src="/images/EFES2018b-labeled.jpg" width = "300" />
-  <img src="/images/EFES2018c-labeled.jpg" width = "220" /> 
+  <img src="/images/EFES2018b-labeled.jpg" width = "380" />
+  <img src="/images/EFES2018c-labeled.jpg" width = "120" /> 
 </p>
 
 

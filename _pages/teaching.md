@@ -27,8 +27,8 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
 
 
 <p float="center">
-  <img src="/images/EFES2018b-labeled.jpg" alt = "2018 EFES DNA Extraction" width = "359" />
-  <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "179" /> 
+  <img src="/images/EFES2018b-labeled.jpg" alt = "2018 EFES DNA Extraction" width = "358" />
+  <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "180" /> 
 </p>
 
 

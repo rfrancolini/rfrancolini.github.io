@@ -13,9 +13,21 @@ I have always enjoyed teaching others about the natural history of the earth, et
 
 ![EFES2017.](/images/EFES2017all-labeled.jpg)
 
+![EFES2017.](/images/EFES2017a-labeled.jpg)
+
+![EFES2017.](/images/EFES2017b-labeled.jpg)
+
+![EFES2017.](/images/EFES2017c-labeled.jpg)
+
 2018 Field Trip
 
 ![EFES2018.](/images/EFES2018all-labeled.jpg)
+
+![EFES2018.](/images/EFES2018a-labeled.jpg)
+
+![EFES2018.](/images/EFES2018b-labeled.jpg)
+
+![EFES2018.](/images/EFES2018c-labeled.jpg)
 
 ## Woods Hole Science Stroll
 

@@ -24,8 +24,8 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
 ![EFES2017.](/images/EFES2017b-labeled.jpg) -->
 
 <p float="center">
-  <img src="/images/EFES2017a-labeled.jpg" width="250" />
-  <img src="/images/EFES2017b-labeled.jpg" width="250" /> 
+  <img src="/images/EFES2017a-labeled.jpg" width="260" />
+  <img src="/images/EFES2017b-labeled.jpg" width="255" /> 
 </p>
 
 

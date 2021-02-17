@@ -8,6 +8,13 @@ I have always enjoyed teaching others about the natural history of the earth. Be
 
 ## East Falmouth Elementary School Field Trip
 
+
+<p float="center">
+  <img src="/images/EFES2017a-labeled.jpg" width="270" />
+  <img src="/images/EFES2017b-labeled.jpg" width="255" /> 
+</p>
+
+
 In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary School for their field trip to Woods Hole. They had learned about pollution in their science class that year, so we brought those lessons to life with some hands-on activities. At that point in time, I was a research assistant for John Stegeman and Jed Goldstone working on the response of zebrafish to environmental toxins. There were 4 main components to the field trip: 
 
 **(1) A tour of the zebrafish facility:** where they saw juvenile and adult zebrafish, learned how we cared for the the fish, and discussed the importance of upkeep of your research organisms. 
@@ -19,20 +26,16 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
 **(4) Pollution Clean-up at the Beach:** we wrapped the day up with a trip to the beach across the street, where we enjoyed the sand and all cleaned up visible pieces of garbage.
 
 
-<!--![EFES2017.](/images/EFES2017a-labeled.jpg)
-
-![EFES2017.](/images/EFES2017b-labeled.jpg) -->
-
 <p float="center">
-  <img src="/images/EFES2017a-labeled.jpg" width="260" />
-  <img src="/images/EFES2017b-labeled.jpg" width="255" /> 
+  <img src="/images/EFES2018b-labeled.jpg" width="260" />
+  <img src="/images/EFES2018c-labeled.jpg" width="255" /> 
 </p>
 
 
 
-![EFES2018.](/images/EFES2018b-labeled.jpg)
+<!-- ![EFES2018.](/images/EFES2018b-labeled.jpg)
 
-![EFES2018.](/images/EFES2018c-labeled.jpg)
+![EFES2018.](/images/EFES2018c-labeled.jpg) -->
 
 ## Woods Hole Science Stroll
 

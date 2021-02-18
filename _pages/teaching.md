@@ -10,8 +10,8 @@ I have always enjoyed teaching others about the natural history of the earth. Be
 
 
 <p float="center">
-  <img src="/images/EFES2017a-labeled.jpg" alt = "2017 EFES DNA Extraction" width = "50.5%" />
-  <img src="/images/EFES2017b-labeled.jpg" alt = "2017 EFES DNA Extraction 2" width = "47.5%" /> 
+  <img src="/images/EFES2017a-labeled.jpg" alt = "2017 EFES DNA Extraction" width = "51%" />
+  <img src="/images/EFES2017b-labeled.jpg" alt = "2017 EFES DNA Extraction 2" width = "48%" /> 
 </p>
 
 

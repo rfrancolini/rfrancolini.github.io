@@ -28,7 +28,7 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
   <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "33%" /> 
 </p>
 
-<hr style="height:3px;border-width:0;color:info-color;background-color:info-color">
+<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
 
 ## Woods Hole Science Stroll
 
@@ -36,7 +36,7 @@ For two years, I volunteered at the Woods Hole Science Stroll. This is a one day
 
 ![Stroll.](/images/ScienceStroll1-labeled.jpg)
 
-<hr style="height:3px;border-width:0;color:dark-gray;background-color:dark-gray">
+<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
 
 
 

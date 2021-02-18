@@ -8,12 +8,10 @@ I have always enjoyed teaching others about the natural history of the earth. Be
 
 ## East Falmouth Elementary School Field Trip
 
-
 <p float="center">
   <img src="/images/EFES2017a-labeled.jpg" alt = "2017 EFES DNA Extraction" width = "51%" />
   <img src="/images/EFES2017b-labeled.jpg" alt = "2017 EFES DNA Extraction 2" width = "48%" /> 
 </p>
-
 
 In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary School for their field trip to Woods Hole. They had learned about pollution in their science class that year, so we brought those lessons to life with some hands-on activities. At that point in time, I was a research assistant for John Stegeman and Jed Goldstone working on the response of zebrafish to environmental toxins. There were 4 main components to the field trip: 
 
@@ -25,15 +23,25 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
 
 ***(4) Pollution Clean-up at the Beach:*** we wrapped the day up with a trip to the beach across the street, where we enjoyed the sand and all cleaned up visible pieces of garbage.
 
-
 <p float="center">
   <img src="/images/EFES2018b-labeled.jpg" alt = "2018 EFES DNA Extraction" width = "66%" />
   <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "33%" /> 
 </p>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:6px;border-width:0;color:gray;background-color:gray">
+
 ## Woods Hole Science Stroll
+
+For two years, I volunteered at the Woods Hole Science Stroll. This is a one day event where organizations, institutions, and research laboratories in Woods Hole host a fair with touch tanks, educational booths, scientific crafts, and tours of the vessels currently at the dock. In 2017, I participated as a part of the environmental toxicology lab group. We hosted a booth about zebrafish, teaching the public about the scientific uses of this model organism, and had live organsims so they could learn the differences between males and females, AB lines versus TL lines, and what a zebrafish may look like at different life stages. In 2018, I spent the day giving tours of WHOI's vessel Atlantis, describing what a day in the life of a scientist on a research cruise is like, what needs to be considered when preparing for a research cruise, and the important features of each lab space. 
 
 ![Stroll.](/images/ScienceStroll1-labeled.jpg)
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:6px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+
+
+
+

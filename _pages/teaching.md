@@ -27,11 +27,14 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
 
 
 <p float="center">
-  <img src="/images/EFES2018b-labeled.jpg" alt = "2018 EFES DNA Extraction" width = "65.3%" />
-  <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "32.7%" /> 
+  <img src="/images/EFES2018b-labeled.jpg" alt = "2018 EFES DNA Extraction" width = "66%" />
+  <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "33%" /> 
 </p>
 
+<hr style="border:2px"> </hr>
 
 ## Woods Hole Science Stroll
 
 ![Stroll.](/images/ScienceStroll1-labeled.jpg)
+
+<hr style="border:2px"> </hr>

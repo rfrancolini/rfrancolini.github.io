@@ -10,8 +10,8 @@ I have always enjoyed teaching others about the natural history of the earth. Be
 
 
 <p float="center">
-  <img src="/images/EFES2017a-labeled.jpg" alt = "2017 EFES DNA Extraction" width = "51.5%" />
-  <img src="/images/EFES2017b-labeled.jpg" alt = "2017 EFES DNA Extraction 2" width = "48.5%" /> 
+  <img src="/images/EFES2017a-labeled.jpg" alt = "2017 EFES DNA Extraction" width = "46.4" />
+  <img src="/images/EFES2017b-labeled.jpg" alt = "2017 EFES DNA Extraction 2" width = "43.6%" /> 
 </p>
 
 
@@ -27,8 +27,8 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
 
 
 <p float="center">
-  <img src="/images/EFES2018b-labeled.jpg" alt = "2018 EFES DNA Extraction" width = "66.6%" />
-  <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "33.4%" /> 
+  <img src="/images/EFES2018b-labeled.jpg" alt = "2018 EFES DNA Extraction" width = "60%" />
+  <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "30%" /> 
 </p>
 
 

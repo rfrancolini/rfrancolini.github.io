@@ -31,10 +31,10 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
   <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "33%" /> 
 </p>
 
-<hr style="height:2px"> </hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Woods Hole Science Stroll
 
 ![Stroll.](/images/ScienceStroll1-labeled.jpg)
 
-<hr style="border:2px"> </hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">

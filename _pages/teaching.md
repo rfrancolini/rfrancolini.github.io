@@ -56,5 +56,5 @@ Alongside day camp, I also led public program tours, including "The Big Seine" a
 
 ![WBWS.](/images/WBWS2013Staff-labeled.jpg)
 
-
+<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
 

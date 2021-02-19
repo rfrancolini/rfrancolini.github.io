@@ -40,7 +40,7 @@ For two years, I volunteered at the Woods Hole Science Stroll. This is a one day
 
 ## Hawai‘i Institute of Marine Biology: Research Experiences in Marine Science
 
-![REMS.](/images/REMSGroup.jpg)
+![REMS.](/images/REMSGroup-labeled.jpg)
 
 In 2014, I spent the summer as a teaching assistant for Research Experiences in Marine Science (REMS) program, hosted at Hawai‘i Institute of Marine Biology. This program is a 5 week intensive for high school students attending Hawai‘i Public Title I schools with native Hawaiian, Filipino, and other Pacific Islander backgrounds with the goal to increase interest in marine science fields. For the first two weeks, lessons were focused on marine conservation, sustainability, and scientific methods, with the aim of applying this to tropical systems. In the last three weeks, the students worked on group research projects, generating their own questions, designing and carrying out their experiments, and synthesizing a scientific report. At the end of the course, they presented their work to an audience of previous guest lecturers, family members, funders, and Hawai‘i state senators. Projects included investigating the effects of sunlight on the zooxanthellae of upside-down jellyfish, the regeneration of snapping shrimp claws, and the diversity of corals along the reefs of Kāne‘ohe Bay. 
 

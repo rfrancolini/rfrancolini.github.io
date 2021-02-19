@@ -6,6 +6,8 @@ author_profile: true
 
 I have always enjoyed teaching others about the natural history of the earth. Below are some selected teaching experiences and outreach events I have been a part of through the years. If you are interested in collaborating on an education-focused project, please feel free to contact me.
 
+<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+
 ## East Falmouth Elementary School Field Trip
 
 <p float="center">
@@ -45,5 +47,14 @@ For two years, I volunteered at the Woods Hole Science Stroll. This is a one day
 In 2014, I spent the summer as a teaching assistant for Research Experiences in Marine Science (REMS) program, hosted at Hawai‘i Institute of Marine Biology. This program is a 5 week intensive for high school students attending Hawai‘i Public Title I schools with native Hawaiian, Filipino, and other Pacific Islander backgrounds with the goal to increase interest in marine science fields. For the first two weeks, lessons were focused on marine conservation, sustainability, and scientific methods, with the aim of applying this to tropical systems. In the last three weeks, the students worked on group research projects, generating their own questions, designing and carrying out their experiments, and synthesizing a scientific report. At the end of the course, they presented their work to an audience of previous guest lecturers, family members, funders, and Hawai‘i state senators. Projects included investigating the effects of sunlight on the zooxanthellae of upside-down jellyfish, the regeneration of snapping shrimp claws, and the diversity of corals along the reefs of Kāne‘ohe Bay. 
 
 <hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+
+## Wellfleet Bay Wildlife Sanctuary Natural History Day Camp
+
+From 2011 through 2013, I was a day camp instructor at Massachusetts Audubon Society's Wellfleet Bay Wildlife Sanctuary's Natural History Day Camp. I taught campers from ages 4 through 14 about the natural history of Cape Cod and environmental stewardship through science labs, hands-on activities, games, and arts and crafts projects. Each week of camp had a different theme, such as "Dig it!", "Metamorphosis Madness!", or "Crazy Critters!". Examples of activities include squid dissections, metamorphosis kickball, owl pellet dissections, designing birdfeeders, and lessons on animal adaptations, such as how seals stay warm in cold waters and why some birds have different shaped bills than others. All lessons were paired with outdoor walks and exploration at one of the five ecosystems located on the sanctuary - the swamp, the pond, the forest, the marsh, or the tidal flats. During this time, I was also the Naturalist-In-Training coordinator, organizing our high school volunteers, pairing them with classrooms for the week, and offering trainings to improve on their educational skills. 
+
+Alongside day camp, I also led public program tours, including "The Big Seine" and "Seashore Ramble". These were 2-3 hour programs offered for families visiting the sanctuary, which included a guided walk through the sanctuary's ecosystems and time to explore the tidal flats with dip and seine nets. 
+
+![WBWS.](/images/WBWS2013Staff-labeled.jpg)
+
 
 

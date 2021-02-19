@@ -4,9 +4,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have always enjoyed teaching others about the natural history of the earth. Below are some selected teaching experiences and outreach events I have been a part of through the years. If you are interested in collaborating on an education-focused project, please feel free to contact me.
+I truly enjoy teaching others about STEM topics, including the natural history of the earth, how to conceptualize, design, and execute an experiment, and what being a scientist entails. Below are some selected teaching experiences, outreach events, and projects I have been a part of through the years. If you are interested in collaborating on an education-focused project, please feel free to contact me.
 
 <hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+
+## Marine Sciences Educational Video
+
+As part of a marine sciences course assignment, we had to create a short video highlighting some features of an organism of our choice. I decided to go close to home and research the northern quahog, *Mercenaria mercenaria*. This is the first information video I've made, and (as you can hopefully see) I definitely had a blast doing so!
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/juvgikE30qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

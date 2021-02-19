@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![EelPond.](/images/EelPond1cropped.jpg){:.align-center}
+![EelPond.](/images/EelPond1Long.jpg)
 
 <!-- <img src="/images/EelPond1cropped.jpg" alt = "2019 Eel Pond" width = "60%" class = "text-center"/> -->
 

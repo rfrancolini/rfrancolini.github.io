@@ -8,6 +8,10 @@ I have always enjoyed teaching others about the natural history of the earth. Be
 
 <hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/juvgikE30qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+
 ## East Falmouth Elementary School Field Trip
 
 <p float="center">

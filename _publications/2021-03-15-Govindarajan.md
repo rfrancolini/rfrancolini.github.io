@@ -2,7 +2,7 @@
 title: "Exploring the Use of Environmental DNA (eDNA) to Detect Animal Taxa in the Mesopelagic Zone"
 collection: publications
 permalink: /publication/2021-03-15-Govindarajan
-excerpt: '<strong>Abstract:</strong> Animal biodiversity in the ocean’s vast mesopelagic zone is relatively poorly studied due to technological and logistical...' 
+excerpt: '<strong>Abstract:</strong> Animal biodiversity in the ocean’s vast mesopelagic zone is relatively poorly studied due to technological and logistical challenges. Environmental...' 
 date: 2021-03-15
 venue: 'Frontiers in Ecology and Evolution'
 paperurl: 

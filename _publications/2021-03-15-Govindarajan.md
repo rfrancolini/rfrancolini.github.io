@@ -3,8 +3,8 @@ title: "Exploring the Use of Environmental DNA (eDNA) to Detect Animal Taxa in t
 collection: publications
 permalink: /publication/2021-03-15-Govindarajan
 excerpt: '<strong>Abstract:</strong> Animal biodiversity in the ocean’s vast mesopelagic zone is relatively poorly studied due to technological and logistical...' 
-date: 2017-01-18
-venue: 'PNAS'
+date: 2021-03-15
+venue: 'Frontiers in Ecology and Evolution'
 paperurl: 
 citation: 'A.F. Govindarajan, <strong>R.D. Francolini</strong>, J.M. Jech, A.C. Lavery, J.K. Llopez, P.H. Wiebe, W.G. Zhang. (2021) Exploring the Use of Environmental DNA (eDNA) to Detect Animal Taxa in the Mesopelagic Zone. Frontiers in Ecology and Evolution. Vol. 9, doi: 10.3389/fevo.2021.574877.'
 ---

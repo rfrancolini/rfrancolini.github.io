@@ -8,6 +8,14 @@ I truly enjoy teaching others about STEM topics, including the natural history o
 
 <hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
 
+## Skype A Scientist
+
+Determined not to let 2020 prevent me from participating in outreach opportunities, I became a member of the [Skype A Scientist](https://www.skypeascientist.com/) community. This organization connects scientists to classrooms, after-school programs, and other education-based groups to lead discussions on what the daily life of a scientist looks like, what a path to a science career may be, what research the scientist works on, and anything else of interest to the attendees. In 2020, the groups I talked with included 2nd graders learning about climate change, AP biology students interested in how to prepare for college, college students interested in the variety of research I have done, and 5th grade Girl Guides who were purely fascinated about marine science and wanted to meet a female scientist. 
+
+![Skype.](/images/SkypeAScientist.jpg)
+
+<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+
 ## Marine Sciences Educational Video
 
 As part of a marine sciences course assignment, we had to create a short video highlighting some features of an organism of our choice. I decided to go close to home and research the northern quahog, *Mercenaria mercenaria*. This is the first information video I've made, and (as you can hopefully see) I definitely had a blast doing so!

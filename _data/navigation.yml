@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Research"
+    url: /research/
+
   - title: "Teaching/Outreach"
     url: /teaching/    
     
@@ -17,8 +20,7 @@ main:
     url: https://www.laboratory-podcast.com/
  
 ## Future pages?        
-#  - title: "Research"
-#    url: /research/
+
         
 #  - title: "Blog Posts"
 #    url: /year-archive/

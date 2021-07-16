@@ -20,7 +20,7 @@ However, climate change is threatening the survival of these species. The Gulf o
 
 ## Ocean Twilight Zone
 
-ABOUT OTZ - coming soon!
+This is where i will talk about mesopelagic environmental DNA.
 
 <hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
 

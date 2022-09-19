@@ -1,0 +1,15 @@
+---
+title: "Improved biodiversity detection using a large-volume environmental DNA sampler with in situ filtration and implications for marine eDNA sampling strategies"
+collection: publications
+permalink: /publication/2022-09-09-Govindarajan
+excerpt: '<strong>Abstract:</strong> Metabarcoding analysis of environmental DNA samples is a promising new tool for marine biodiversity and conservation. Typically, seawater samples are obtained using Niskin bottles...' 
+date: 2022-09-09
+venue: 'Deep Sea Research Part 1'
+paperurl: 
+citation: 'A.F. Govindarajan, L. McCartin, A. Adams, E. Allan, A. Belani, <strong>R.D. Francolini</strong>, J. Fuji, D. Gomez-Ibanez, A. Kukulya, F. Marin, K. Tradd, D.R. Yoerger, J.M. McDermott, S. Herrera. (2022) Improved biodiversity detection using a large-volume environmental DNA sampler with in situ filtration and implications for marine eDNA sampling strategies. Deep Sea Research Part 1. doi: 10.1016/j.dsr.2022.103871.'
+---
+
+[Download paper here](http://rfrancolini.github.io/files/Govindarajan2022.pdf)
+
+**Abstract:** Metabarcoding analysis of environmental DNA samples is a promising new tool for marine biodiversity and conservation. Typically, seawater samples are obtained using Niskin bottles and filtered to collect eDNA. However, standard sample volumes are small relative to the scale of the environment, conventional collection strategies are limited, and the filtration process is time consuming. To overcome these limitations, we developed a new large-volume eDNA sampler with in situ filtration, capable of taking up to 12 samples per deployment. We conducted three deployments of our sampler on the robotic vehicle Mesobot in the Flower Garden Banks National Marine Sanctuary in the northwestern Gulf of Mexico and collected samples from 20 to 400m depth. We compared the large volume (???40-60 liters) samples collected by Mesobot with small volume (???2 liters) samples collected using the conventional CTD rosette - mounted Niskin bottle approach. We sequenced the V9 region of 18S rRNA, which detects a broad range of invertebrate taxa, and found that while both methods detected biodiversity changes associated with depth, our large volume samples detected approximately 66% more taxa than the CTD small volume samples. We found that the fraction of the eDNA signal originating from metazoans relative to the total eDNA signal decreased with sampling depth, indicating that larger volume samples may be especially important for detecting metazoans in mesopelagic and deep ocean environments. We also noted substantial variability in biological replicates from both the large volume Mesobot and small volume CTD sample sets. Both of the sample sets also identified taxa that the other did not - although the number of unique taxa associated with the Mesobot samples was almost four times larger than those from the CTD samples. Large volume eDNA sampling with in situ filtration, particularly when coupled with robotic platforms, has great potential for marine biodiversity surveys, and we discuss practical methodological and sampling considerations for future applications.
+

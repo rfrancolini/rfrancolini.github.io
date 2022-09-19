@@ -8,6 +8,14 @@ I truly enjoy teaching others about STEM topics, including the natural history o
 
 <hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
 
+## Girls Who Code
+
+Starting in winter of 2022, my coworker Camille Ross and I started up a new chapter of [Girls Who Code](https://girlswhocode.com/) at the Boothbay Harbor Memorial Library in Boothbay Harbor, Maine. Girls Who Code is an organization that focuses on teaching girls from elementary school through college that coding is for everyone, with the goal of closing the gender gap in computing. Our club consists of 5th - 8th graders, alongside some passionate high school volunteers. We focus on using [Scratch](https://scratch.mit.edu/), a free, online, block-based coding language to explore how to problem solve, logic through code, and most importantly, create fun animations and games in the process.
+
+![GWC.](/images/GWC_Logo.png)
+
+<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+
 ## Skype A Scientist
 
 Determined not to let 2020 prevent me from participating in outreach opportunities, I became a member of the [Skype A Scientist](https://www.skypeascientist.com/) community. This organization connects scientists to classrooms, after-school programs, and other education-based groups to lead discussions on what the daily life of a scientist looks like, what a path to a science career may be, what research the scientist works on, and anything else of interest to the attendees. In 2020, the groups I talked with included 2nd graders learning about climate change, AP biology students interested in how to prepare for college, college students interested in the variety of research I have done, and 5th grade Girl Guides who were purely fascinated about marine science and wanted to meet a female scientist (and we capped off that discussion by making ocean-themed rice krispie treats!).

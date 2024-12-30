@@ -2,7 +2,7 @@
 title: "Improved biodiversity detection using a large-volume environmental DNA sampler with in situ filtration and implications for marine eDNA sampling strategies"
 collection: publications
 permalink: /publication/2022-09-09-Govindarajan
-excerpt: '<strong>Abstract:</strong> Metabarcoding analysis of environmental DNA samples is a promising new tool for marine biodiversity and conservation. Typically, seawater samples are obtained using Niskin bottles...' 
+excerpt: '<strong>Abstract:</strong> Metabarcoding analysis of environmental DNA samples is a promising new tool for marine biodiversity and conservation. Typically, seawater samples are obtained using Niskin...' 
 date: 2022-09-09
 venue: 'Deep Sea Research Part 1'
 paperurl: 

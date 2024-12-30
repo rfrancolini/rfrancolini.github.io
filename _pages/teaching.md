@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-sidebar 0 I truly enjoy teaching others about STEM topics, including the natural history of the earth, how to conceptualize, design, and execute an experiment, and what being a scientist entails. Below are some selected teaching experiences, outreach events, and projects I have been a part of through the years. If you are interested in collaborating on an education-focused project, please feel free to contact me.
+I truly enjoy teaching others about STEM topics, including the natural history of the earth, how to conceptualize, design, and execute an experiment, and what being a scientist entails. Below are some selected teaching experiences, outreach events, and projects I have been a part of through the years. If you are interested in collaborating on an education-focused project, please feel free to contact me.
 
 <hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
 

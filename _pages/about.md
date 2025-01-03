@@ -16,7 +16,7 @@ I am interested in the effects that climate change has on our ecosystem, how org
 
 ![WHOI.](/images/WHOI.jpg)
 
-Prior to my PhD, I worked as a research assistant at [Woods Hole Oceanographic Institution](https://www.whoi.edu/) for three years. While there, I worked in two labs - John Stegeman/Jed Goldstone's Environmental Toxicology Lab as well as Annette Govindarajan's Molecular Ecology Lab as part of the [Ocean Twilight Zone](https://twilightzone.whoi.edu/) project.
+I worked as a research assistant at [Woods Hole Oceanographic Institution](https://www.whoi.edu/) for three years. While there, I worked in two labs - John Stegeman/Jed Goldstone's Environmental Toxicology Lab as well as Annette Govindarajan's Molecular Ecology Lab as part of the [Ocean Twilight Zone](https://twilightzone.whoi.edu/) project.
 
 ![CMU.](/images/cmu2016.jpg)
 

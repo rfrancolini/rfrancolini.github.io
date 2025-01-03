@@ -48,11 +48,11 @@ $type-size-9                : 0.875em;  // ~14px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #fdeda4;
+$dark-gray                  : #fce181;
+$darker-gray                : #fde792;
+$light-gray                 : #fdf3b5;
+$lighter-gray               : #fef9c7;
 
 $body-color                 : #026670;
 $background-color           : #026670;
@@ -65,7 +65,7 @@ $primary-color              : #9fedd7;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #fef9c7;
+$info-color                 : #fce181;
 
 
 /* brands */

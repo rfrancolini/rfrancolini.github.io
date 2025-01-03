@@ -20,7 +20,7 @@ I worked as a research assistant at [Woods Hole Oceanographic Institution](https
 
 ![CMU.](/images/cmu2016.jpg)
 
-Even before that, I earned my M.S. in Computational Biology as well as my B.S. in Biological Sciences at [Carnegie Mellon University](https://www.cmu.edu/). I was a member of Veronica Hinman's [Evolution, Development, and Regeneration Lab](https://labs.bio.cmu.edu/hinman/), and successfully defended my thesis in 2016. 
+I earned my M.S. in Computational Biology as well as my B.S. in Biological Sciences at [Carnegie Mellon University](https://www.cmu.edu/). I was a member of Veronica Hinman's [Evolution, Development, and Regeneration Lab](https://labs.bio.cmu.edu/hinman/), and successfully defended my thesis in 2016. 
 
 ![Horseshoe.](/images/Horseshoes.jpg)
 

@@ -10,7 +10,7 @@ redirect_from:
 
 ![DryingKelp.](/images/DryingKelpCropped.jpg)
 
-Hello! I am a fifth year Marine Biology PhD Candidate at the [University of Maine](https://https://umaine.edu/), based out of [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org//). I am part of the Maine NSF EPSCoR project [Maine-eDNA](https://umaine.edu/edna/), co-advised by [Doug Rasher](https://www.bigelow.org/about/people/drasher.html) and [Damian Brady](https://umaine.edu/marine/people/damian-c-brady/).
+I am a computational marine biologist with a focus on genetics and molecular biology, and it is through this lens that I approach research questions regarding the biodiversity of marine organisms in the wake of our changing climate. I am currently finishing up my Marine Biology PhD at the [University of Maine](https://https://umaine.edu/) based out of [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org//) and co-advised by [Doug Rasher](https://www.bigelow.org/about/people/drasher.html) and [Damian Brady](https://umaine.edu/marine/people/damian-c-brady/). 
 
 I am interested in the effects that climate change has on our ecosystem, how organisms adapt to this change, and what this means for our future. I have extensive training in molecular biology and bioinformatics, and enjoy applying these skills to our marine environment. For my PhD, I am studying the kelp forests of the Gulf of Maine, using field work, molecular lab work, and bioinformatics. Two main goals of my research are to describe the population genetics of two predominant kelp species that are present along our coast, as well as determine and forecast the presence of an invasive, harmful bryozoan species that colonizes on the fronds of kelp.
 

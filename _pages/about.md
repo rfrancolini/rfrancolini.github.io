@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Meet Rene"
+title: "About Rene"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

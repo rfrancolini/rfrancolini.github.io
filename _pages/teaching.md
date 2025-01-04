@@ -6,7 +6,7 @@ author_profile: true
 
 I truly enjoy teaching others about STEM topics, including the natural history of the earth, how to conceptualize, design, and execute an experiment, and what being a scientist entails. Below are some selected teaching experiences, outreach events, and projects I have been a part of through the years. If you are interested in collaborating on an education-focused project, please feel free to contact me.
 
-<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+<hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
 ## Girls Who Code
 
@@ -14,7 +14,7 @@ Starting in winter of 2022, my coworker Camille Ross and I started up a new chap
 
 ![GWC.](/images/GWC_Logo.png)
 
-<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+<hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
 ## Skype A Scientist
 
@@ -22,7 +22,7 @@ Determined not to let 2020 prevent me from participating in outreach opportuniti
 
 ![Skype.](/images/SkypeAScientist.jpg)
 
-<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+<hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
 ## Marine Sciences Educational Video
 
@@ -30,7 +30,7 @@ As part of a marine sciences course assignment, we had to create a short video h
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/juvgikE30qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+<hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
 ## East Falmouth Elementary School Field Trip
 
@@ -54,7 +54,7 @@ In 2017 and 2018, I hosted the 3rd grade class of the East Falmouth Elementary S
   <img src="/images/EFES2018c-labeled.jpg" alt = "2018 EFES Microscopes" width = "33%" /> 
 </p>
 
-<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+<hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
 ## Woods Hole Science Stroll
 
@@ -62,7 +62,7 @@ For two years, I volunteered at the Woods Hole Science Stroll. This is a one day
 
 ![Stroll.](/images/ScienceStroll1-labeled.jpg)
 
-<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+<hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
 ## Hawai‘i Institute of Marine Biology: Research Experiences in Marine Science
 

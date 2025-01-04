@@ -17,7 +17,7 @@ However, climate change is threatening the survival of these species (with the G
 
 ![Kelp.](/images/KelpTypes.jpg)
 
-<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+<hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
 ## Ocean Twilight Zone
 

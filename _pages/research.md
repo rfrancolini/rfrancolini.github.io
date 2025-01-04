@@ -29,9 +29,6 @@ This is where i will talk about mesopelagic environmental DNA.
 
 ABOUT ECOTOX - coming soon!
 
-<hr style="height:3px;border-width:0;color:Grey;background-color:Grey">
+<hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
-## Starfish and Sea Urchins
-
-ABOUT THESIS - coming soon!
 

@@ -10,17 +10,11 @@ redirect_from:
 
 ![DryingKelp.](/images/DryingKelpCropped.jpg)
 
-I am a computational marine biologist with a focus on genetics and molecular biology, and it is through this lens that I approach research questions regarding the biodiversity of marine organisms in the wake of our changing climate. I am currently finishing up my Marine Biology PhD at the [University of Maine](https://https://umaine.edu/) based out of [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org//) and co-advised by [Doug Rasher](https://www.bigelow.org/about/people/drasher.html) and [Damian Brady](https://umaine.edu/marine/people/damian-c-brady/). 
+I am a computational marine ecologist with a focus on genetics and molecular biology, and it is through this lens that I approach research questions regarding the biodiversity of marine organisms in the wake of our changing climate. I am currently a Ph.D. candidate at the [University of Maine](https://https://umaine.edu/) working at [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org//), co-advised by [Dr. Douglas Rasher](https://www.bigelow.org/about/people/drasher.html) and [Dr. Damian Brady](https://umaine.edu/marine/people/damian-c-brady/), with an intended date of completion to occur in July 2025. My research investigates the population genomics of kelp forests along the coast of Maine in the face of both climate change as well as a growing aquaculture industry in Maine. In addition, I use molecular genetics and computational modeling to observe the presence of invasive species which are harmful to the kelp forests, and generate multi-variate statistical models that project the presence of said species into the future.
 
-I am interested in the effects that climate change has on our ecosystem, how organisms adapt to this change, and what this means for our future. I have extensive training in molecular biology and bioinformatics, and enjoy applying these skills to our marine environment. For my PhD, I am studying the kelp forests of the Gulf of Maine, using field work, molecular lab work, and bioinformatics. Two main goals of my research are to describe the population genetics of two predominant kelp species that are present along our coast, as well as determine and forecast the presence of an invasive, harmful bryozoan species that colonizes on the fronds of kelp.
+I have a strong technical foundation in biological sciences and computational biology, which I earned my B.S. and M.S. degrees in, respectively, from Carnegie Mellon University. It is through this technical and computational lens that I approach questions regarding the current status and future state of the biodiversity of our marine ecosystems. 
 
-![WHOI.](/images/WHOI.jpg)
-
-I worked as a research assistant at [Woods Hole Oceanographic Institution](https://www.whoi.edu/) for three years. While there, I worked in two labs - John Stegeman/Jed Goldstone's Environmental Toxicology Lab as well as Annette Govindarajan's Molecular Ecology Lab as part of the [Ocean Twilight Zone](https://twilightzone.whoi.edu/) project.
-
-![CMU.](/images/cmu2016.jpg)
-
-I earned my M.S. in Computational Biology as well as my B.S. in Biological Sciences at [Carnegie Mellon University](https://www.cmu.edu/). I was a member of Veronica Hinman's [Evolution, Development, and Regeneration Lab](https://labs.bio.cmu.edu/hinman/), and successfully defended my thesis in 2016. 
+As an educator, I focus on ensuring my students learn how to critically think about their scientific questions while simultaneously building upon their computational skills and passion for marine sciences. I aim to create an equitable learning environment where students feel that they all have access to resources that encourage them to succeed. My own lived experiences as a queer woman in STEM have helped me pursue this goal from an institutional level down to daily interpersonal interactions.
 
 ![Horseshoe.](/images/Horseshoes.jpg)
 

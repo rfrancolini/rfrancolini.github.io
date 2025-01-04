@@ -4,13 +4,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I truly enjoy teaching others about STEM topics, including the natural history of the earth, how to conceptualize, design, and execute an experiment, and what being a scientist entails. Below are some selected teaching experiences, outreach events, and projects I have been a part of through the years. If you are interested in collaborating on an education-focused project, please feel free to contact me.
+The respect I provide to the students in my classroom extends to all students, no matter their gender identity, race, religious identity, age, physical ability, neurodiversity, socioeconomic status, or sexual orientation, as I believe all individuals are entitled to education, compassion, and a sense of belonging. Creating an equitable environment in my classroom is of utmost priority, since I wish for all my students to succeed, despite any barriers they may face. My own lived experiences as a queer woman in STEM have helped me pursue this goal from an institutional level down to daily interpersonal interactions.
+
+Below are some selected teaching experiences, outreach events, and projects I have been a part of through the years. If you are interested in collaborating on an education-focused project, please feel free to contact me.
 
 <hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 
 ## Girls Who Code
 
-Starting in winter of 2022, my coworker Camille Ross and I started up a new chapter of [Girls Who Code](https://girlswhocode.com/) at the Boothbay Harbor Memorial Library in Boothbay Harbor, Maine. Girls Who Code is an organization that focuses on teaching girls from elementary school through college that coding is for everyone, with the goal of closing the gender gap in computing. Our club consists of 5th - 8th graders, alongside some passionate high school volunteers. We focus on using [Scratch](https://scratch.mit.edu/), a free, online, block-based coding language to explore how to problem solve, logic through code, and most importantly, create fun animations and games in the process.
+Starting in winter of 2022, my coworker Camille Ross and I started a new chapter of [Girls Who Code](https://girlswhocode.com/) at the Boothbay Harbor Memorial Library in Boothbay Harbor, Maine. Girls Who Code is an organization that focuses on teaching girls from elementary school through college that coding is for everyone, with the goal of closing the gender gap in computing. Our club consists of 5th - 8th graders, alongside some passionate high school volunteers. We focus on using [Scratch](https://scratch.mit.edu/), a free, online, block-based coding language, to explore how to problem solve, logic through code, and most importantly, create fun animations and games in the process.
 
 ![GWC.](/images/GWC_Logo.png)
 

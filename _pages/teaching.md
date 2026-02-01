@@ -12,7 +12,8 @@ Below are some selected teaching experiences, outreach events, and projects I ha
 
 ## Girls Who Code
 
-Starting in winter of 2022, my coworker Camille Ross and I started a new chapter of [Girls Who Code](https://girlswhocode.com/) at the Boothbay Harbor Memorial Library in Boothbay Harbor, Maine. Girls Who Code is an organization that focuses on teaching girls from elementary school through college that coding is for everyone, with the goal of closing the gender gap in computing. Our club consists of 5th - 8th graders, alongside some passionate high school volunteers. We focus on using [Scratch](https://scratch.mit.edu/), a free, online, block-based coding language, to explore how to problem solve, logic through code, and most importantly, create fun animations and games in the process.
+Starting in winter of 2022, my coworker Camille Ross and I started a new chapter of [Girls Who Code](https://girlswhocode.com/) at the Boothbay Harbor Memorial Library in Boothbay Harbor, Maine. Girls Who Code is an organization that focuses on teaching girls from elementary school through college that coding is for everyone, with the goal of closing the gender gap in computing. Our club consisted of 4th - 8th graders, alongside some passionate high school volunteers. We focused on using [Scratch](https://scratch.mit.edu/), a free, online, block-based coding language, to have the students create their own interactive games and animations, fostering collaboration, innovation, and confidence in technology-based learning in the process.
+
 
 ![GWC.](/images/GWC_Logo.png)
 

@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests include (but are not limited to): Ecosystem Biology, Population Genomics, Bioinformatics, Molecular Ecology, Biodiversity, Environmental Impacts, Climate Change Response, Conservation Policy, & Marine Sciences.
+My research interests include (but are not limited to): Ecosystem Biology, Population Genomics, Bioinformatics, Molecular Ecology, Biodiversity, Environmental Impacts, Climate Change Response, Conservation Policy, & Marine Sciences
 
 <hr style="height:3px;border-width:0;color:#9fedd7;border-color:#9fedd7;background-color:#9fedd7">
 

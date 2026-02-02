@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rene Francolini, Ph.D."
+title                    : "Rene Francolini"
 title_separator          : "-"
 name                     : &name "Rene Francolini"
 description              : &description "Computational Marine Ecologist | Marine Biology Ph.D. | Computational Biology M.S."

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rene Francolini"
+title                    : "Rene Francolini, Ph.D."
 title_separator          : "-"
 name                     : &name "Rene Francolini"
 description              : &description "Computational Marine Ecologist | Marine Biology Ph.D. | Computational Biology M.S."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rene Francolini, Ph.D."
+  name             : "Rene Francolini"
   avatar           : "profile.jpg"
   bio              : "Computational Marine Ecologist | Marine Biology Ph.D. | Computational Biology M.S."
   location         : "Maine, USA"
